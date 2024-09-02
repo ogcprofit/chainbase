@@ -1,7 +1,7 @@
 {
-  "name": "chakram", <- Вставляем имя в кавычках
-  "website": "https://github.com/ogcprofit", <- Вставляем ссылку на свой Github
+  "name": "chakram",
+  "website": "https://github.com/ogcprofit",
   "description": "lover of 10000btc for 1 pizza",
-  "logo": "https://raw.githubusercontent.com/ogcprofit/chainbase/blob/main/21.png", <- Вставляем ссылку на свое лого в указанном формате
-  "twitter": "https://x.com/OGC_ProfitHunt" <- Вставляем ссылку на свой профиль Twitter
+  "logo": "https://raw.githubusercontent.com/ogcprofit/chainbase/blob/main/21.png",
+  "twitter": "https://x.com/OGC_ProfitHunt"
 } 
